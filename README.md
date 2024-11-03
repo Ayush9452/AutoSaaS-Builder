@@ -5,8 +5,6 @@
 
   <img src="./public/temp-banner.png" alt="preview" />
 
-<a href="https://jj-zapflow.vercel.app/">Demo</a>
-
 </div>
 
 # SaaS Automation Builder
