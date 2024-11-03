@@ -11,7 +11,7 @@
 
 ## Overview
 
-ZapFlow is a SaaS Automation Builder, a powerful and versatile platform designed to automate and streamline your business processes. Built from the ground up without relying on integration libraries, this builder offers a seamless and customizable experience for creating automation flows. Whether you are a small business or a large enterprise, our builder has the features you need to connect various services and automate your workflows efficiently.
+AutoSaaS Builder is a SaaS Automation Builder, a powerful and versatile platform designed to automate and streamline your business processes. Built from the ground up without relying on integration libraries, this builder offers a seamless and customizable experience for creating automation flows. Whether you are a small business or a large enterprise, our builder has the features you need to connect various services and automate your workflows efficiently.
 
 ## Features
 
@@ -54,7 +54,4 @@ ZapFlow is a SaaS Automation Builder, a powerful and versatile platform designed
 
 ## Conclusion
 
-ZapFlow is a SaaS Automation Builder is your go-to platform for creating and managing powerful automation workflows. With its robust integrations, user-friendly interface, and customizable features, it caters to the needs of businesses looking to streamline their operations and enhance productivity. Start building your automation flows today and experience the efficiency of seamless integration and automation.
-
-
-© 2024 Jeff Jiang. All rights reserved.
+AutoSaaS Builder is a SaaS Automation Builder is your go-to platform for creating and managing powerful automation workflows. With its robust integrations, user-friendly interface, and customizable features, it caters to the needs of businesses looking to streamline their operations and enhance productivity. Start building your automation flows today and experience the efficiency of seamless integration and automation.
